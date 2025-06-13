@@ -1,6 +1,6 @@
 # Combined-Scenarios
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : SRI GOKUL VENKAT M
+## Reg. no: 212224040324
 ## AIM:
 # 1.Solution Ideation
 Use a known UX problem (e.g., booking an appointment in a hospital app).
